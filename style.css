@@ -1,0 +1,15 @@
+body{
+    height: 95vh; /*parte que fica a cima no documento*/
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(54, 194, 54);
+    background-color: aqua;
+}
+
+h2{
+    background-color: aquamarine;
+    border-bottom: 0px;
+}
